@@ -66,7 +66,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'SyncTrade Docs',
+      title: 'SyncTrade AI',
       logo: {
         alt: 'Synctrade AI Logo',
         src: 'img/SynctradeLogoG.png',
