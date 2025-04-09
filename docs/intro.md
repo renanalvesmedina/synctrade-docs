@@ -41,9 +41,14 @@ Once logged in, it's time to connect your Bybit account to unlock the full tradi
 🔒 We use industry-standard encryption to protect your API credentials.
 
 :::tip[My tip]
-> 📘 *Not sure how to generate your Bybit API Key?*  
+📘 *Not sure how to generate your Bybit API Key?*  
 Check our full guide at:  
-**`Integration Bybit > Generate ApiKey and Secret`**
+**Integration Bybit > [Generate ApiKey and Secret](/docs/Integration%20Bybit/generate-apikey.md)**
+:::
+
+:::tip[My tip]
+Details on how to update your ApiKey and Secret:
+**Subscription > [Set your ApiKey and Secret](/docs/Subscription/set-apikey-secret.md)**
 :::
 ---
 
